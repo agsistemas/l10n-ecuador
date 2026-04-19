@@ -99,9 +99,9 @@ class AccountEdiDocument(models.Model):
         tax_vals = {
             "codigo": tax.tax_group_id.l10n_ec_xml_fe_code,
             "codigoPorcentaje": tax.l10n_ec_xml_fe_code,
-            "baseImponible": self._l10n_ec_number_format(abs(base_amount), 6),
-            "tarifa": self._l10n_ec_number_format(abs(rate), 6),
-            "valor": self._l10n_ec_number_format(abs(tax_amount), 6),
+            "baseImponible": self._l10n_ec_number_format(abs(base_amount), 2),
+            "tarifa": self._l10n_ec_number_format(abs(rate), 2),
+            "valor": self._l10n_ec_number_format(abs(tax_amount), 2),
         }
         return tax_vals
 
