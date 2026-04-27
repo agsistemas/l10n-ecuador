@@ -100,11 +100,11 @@ Authors
 Contributors
 ------------
 
--  Leonardo Gomez (https://github.com/gomezgleonardob)
--  Ricardo Jara (https://github.com/rvjaraj)
--  Jorge Luis (https://github.com/mestizosdev)
--  Luis Romero (https://github.com/lojanet)
--  Carlos Lopez (https://github.com/celm1990)
+- Leonardo Gomez (https://github.com/gomezgleonardob)
+- Ricardo Jara (https://github.com/rvjaraj)
+- Jorge Luis (https://github.com/mestizosdev)
+- Luis Romero (https://github.com/lojanet)
+- Carlos Lopez (https://github.com/celm1990)
 
 Maintainers
 -----------
